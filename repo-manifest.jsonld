@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sncosmo/sncosmo/commit/a42c93634a472b2c80878cebc43976aadaff6d2b",
       "git:hexsha": "a42c93634a472b2c80878cebc43976aadaff6d2b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.13.1"
     },
     {
