@@ -1,0 +1,11 @@
+{
+  "org": "sncosmo",
+  "repo": "sncosmo",
+  "versions": [
+    {
+      "commit": "a42c93634a472b2c80878cebc43976aadaff6d2b",
+      "tag": "v2.13.1",
+      "parsed_at": "2026-10-17T02:37:30.125420+00:00"
+    }
+  ]
+}
